@@ -179,8 +179,8 @@ func httpServer() {
 
 func main() {
 	mpesa := NewMpesa(&MpesaOpts{
-		ConsumerKey:    "kXrA3da7AMp5YAP7ngtcyjkZEpbw4gskTwZBjoj1k0YR6wVo",
-		ConsumerSecret: "GlGOHdtNlLFPp7rti02fvprZ1zQ5g16mADG86G6BA7yISLsS5NwAj4xQJAxNPtZx",
+		ConsumerKey:    " ",
+		ConsumerSecret: " ",
 		BaseURL:        "https://sandbox.safaricom.co.ke",
 	})
 
